@@ -1,0 +1,1 @@
+worker: bash bash.sh
